@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeSee</string>
+
+    <!-- Responsável: comum -->
+    <string name="field_email_hint">Digite seu email aqui...</string>
+    <string name="field_password_hint">Digite sua senha aqui...</string>
+    <string name="show_password">Mostrar senha</string>
+    <string name="hide_password">Ocultar senha</string>
+
+    <!-- Responsável: login -->
+    <string name="guardian_login_title">Login</string>
+    <string name="guardian_login_subtitle">Acesso ao sistema para responsáveis</string>
+    <string name="forgot_password">Esqueci minha senha...</string>
+    <string name="action_login">Login</string>
+    <string name="no_account_prefix">Não tem conta? </string>
+    <string name="create_account">Criar conta</string>
+
+    <!-- Responsável: cadastro -->
+    <string name="guardian_register_title">Cadastro</string>
+    <string name="guardian_register_subtitle">Criação para o sistema de responsáveis</string>
+    <string name="field_name_hint">Digite seu nome...</string>
+    <string name="field_confirm_password_hint">Confirmar senha...</string>
+    <string name="field_cpf_hint">Digite seu CPF aqui...</string>
+    <string name="field_phone_hint">Digite seu telefone aqui...</string>
+    <string name="action_register">Cadastro</string>
+    <string name="has_account_prefix">Já tem uma conta? </string>
+    <string name="action_login_link">Login</string>
+</resources>
